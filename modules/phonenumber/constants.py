@@ -1,0 +1,8 @@
+PHONE_NUMBER = "phoneNumber"
+COUNTRY_CODE = "countryCode"
+AREA_CODE = "areaCode"
+LOCAL_PHONE_NUMBER = "localPhoneNumber"
+ERROR = "error"
+MSG_REQ_MISSING = "Required value missing"
+MSG_INV_PHONE_NUMBER = "Invalid phone number"
+MSG_INV_FORMAT = "Required value not in expected format"
